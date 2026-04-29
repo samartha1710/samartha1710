@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Samarth Agarwal
-**A Passionate Software Developer & Tech-Forward Thinker || B.Tech in Computer Science || MBA in Marketing || NMIMS'25**
+**A Passionate Software Developer & Tech-Forward Thinker || B.Tech in Computer Engineering || MBA in Marketing || NMIMS'25**
 
 ---
 
